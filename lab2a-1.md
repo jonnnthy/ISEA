@@ -13,15 +13,21 @@
 ## Reflection Questions
 - Based on the TCO, which printer is the most cost-effective over 5 years?
 
+The office laser printer is more cost-effective. Its total cost is much lower mainly because toner lasts longer than ink cartridges.
   
 - Would the answer change for a home user who prints only 5 pages per week?
 
+Yes. For very low usage, the inkjet may be cheaper overall because the upfront cost is lower and the user won’t consume many cartridges.
   
 - What other non-financial factors could influence printer selection?
 
+Print quality (colour/photos), speed, reliability, maintenance needs, size/noise, connectivity (Wi-Fi), and ease of getting replacement cartridges/toner.
   
 - What cost components are more significant for a large workgroup printer?
 
+Consumables (toner/ink) and paper are the biggest costs.
   
 - At what point (in years/pages) do the two printer options break even in cost?
   
+The break-even happens when the extra cost of the laser printer is recovered by cheaper toner usage.
+Roughly around 2,000 pages (about 3 weeks at 750 pages/week). 
