@@ -30,6 +30,7 @@ Updates take time because DNS records are cached worldwide based on TTL values.
 It verifies you control the domain using HTTP challenges or DNS TXT record challenges.
   
 - What are the risks if TLS is not configured on a public-facing site?
+  
 Data can be intercepted or altered, and users may see “Not Secure” warnings.
  
 - What could happen if you leave your cloud VM running for months?
