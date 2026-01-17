@@ -53,4 +53,5 @@ The script may produce an error or unexpected output unless input validation is 
 It shows memory usage (RAM and swap) in a human-readable format like MB or GB.
   
 - How would you monitor network bandwidth in a Bash script?
+- 
 I would use tools like iftop, nload, or vnstat and run them in a loop with sleep for continuous monitoring.
