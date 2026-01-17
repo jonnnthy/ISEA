@@ -32,14 +32,20 @@
 ## Reflection Questions
 - What were the benefits of cloud deployment over local virtualisation?
 
+Cloud deployment is accessible anywhere via public IP and feels closer to a real production setup than a local VM.
   
 - How does Apache serve files, and how did you verify this?
 
+Apache serves files from /var/www/html/, and I verified it by editing index.html and refreshing the browser to see the changes.
   
 - What did you learn about file ownership and permissions?
 
+I learned that ownership and permissions control who can edit files, and web files often require sudo to modify safely.
   
 - What risks are associated with leaving instances running?
 
+It can cost money continuously and increases exposure to attacks because the VM stays online with open ports.
   
 - How would you explain the difference between DNS and /etc/hosts to a client?
+
+DNS resolves names globally, while /etc/hosts is a local manual override on one machine.
