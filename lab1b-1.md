@@ -26,13 +26,17 @@
 
 ## Reflection Questions
 - What’s the role of a firewall in managing services?
+
 It controls which ports/services are allowed or blocked, reducing unnecessary access and improving security.
   
 - How did SSH access deepen your understanding of Linux as a server?
+  
 It showed me how Linux can be managed remotely through the terminal without needing a GUI.
   
 - Why is file compression important in server contexts?
+  
 It saves storage space and makes file transfers faster and more efficient.
   
 - How does user privilege management help secure systems?
+  
 It limits what users can do, preventing accidental changes and reducing the impact of attacks.
