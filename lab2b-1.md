@@ -1,10 +1,12 @@
 # Cloud Web Server Deployment with Microsoft Azure
 
 - Log in to Microsoft Azure and create a new Ubuntu 20.04 instance.
+![Uploading azure vm.jpg…]()
 
 
 - Allow both SSH and HTTP traffic.
-  
+
+
 
 - Connect to the VM using RDP.
  
