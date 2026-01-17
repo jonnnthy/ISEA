@@ -1,7 +1,7 @@
 # Enabling HTTPS with Let's Encrypt & Certbot
 
 - Firewall allows ports 22 (SSH), 80 (HTTP), 443 (HTTPS).
-  <img width="556" height="298" alt="ufw status" src="https://github.com/user-attachments/assets/112256a3-e4a8-412a-9973-8385415deb74" />
+<img width="556" height="298" alt="ufw status" src="https://github.com/user-attachments/assets/112256a3-e4a8-412a-9973-8385415deb74" />
 
 - Run: `sudo certbot --apache` and follow the prompts.
 <img width="1280" height="178" alt="running certbot" src="https://github.com/user-attachments/assets/3f29cb20-6b75-4aa8-8e58-568adb414d03" />
