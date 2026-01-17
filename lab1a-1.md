@@ -3,28 +3,28 @@
 ## Setting Up a Linux Environment Using VirtualBox
 
 ### 1) VirtualBox Installed
-
+<img width="1908" height="1548" alt="01_virtualbox_installed" src="https://github.com/user-attachments/assets/1b11f8ba-9100-4f8d-8bb3-81fba8abbf83" />
 
 ---
 
 ### 2) Ubuntu ISO Downloaded
-
+<img width="1234" height="60" alt="02_ubuntu_iso_downloaded" src="https://github.com/user-attachments/assets/a62d895a-e513-4e05-aaff-c5b5c0d8f017" />
 
 ---
 
 ### 3) New VM Created
+<img width="3826" height="2106" alt="03_new_vm_created" src="https://github.com/user-attachments/assets/745aaff6-5180-47ac-92be-eec57b020172" />
 
 
 ---
 
 ### 4) Ubuntu Installation And Running
-
+<img width="1880" height="1550" alt="04_ubuntu_installation_and_running" src="https://github.com/user-attachments/assets/d7565bbb-e1bc-49f2-aaf9-2cf68ad6d8e1" />
 
 ---
 
 ### 5) Networking Mode Configured
-
-
+<img width="1680" height="556" alt="05_networking_mode" src="https://github.com/user-attachments/assets/e0d9156c-031e-4f83-9e93-b723cfe9a2c2" />
 
 ---
 
