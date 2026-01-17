@@ -1,0 +1,27 @@
+# Total Cost of Ownership (TCO) Analysis
+
+- Choose two printers to compare (e.g., budget inkjet vs office laser).
+- List all potential costs (fixed and variable). Examples: printer, cartridges, paper, power, service.
+- Define your assumptions: time period (5 years), weekly usage (750 pages), power on (40 hrs/week).
+- Use online sources (e.g., Officeworks, eBay, OEM manuals) to gather pricing and specs.
+- Calculate total quantity of consumables required for each printer over the chosen period.
+- Create or use a spreadsheet to total all costs (use formulas).
+- Compare final TCO values and reflect on the results.
+
+<img width="860" height="609" alt="image" src="https://github.com/user-attachments/assets/a1300daf-4b70-4df8-b24b-b83513405763" />
+
+## Reflection Questions
+- Based on the TCO, which printer is the most cost-effective over 5 years?
+
+  
+- Would the answer change for a home user who prints only 5 pages per week?
+
+  
+- What other non-financial factors could influence printer selection?
+
+  
+- What cost components are more significant for a large workgroup printer?
+
+  
+- At what point (in years/pages) do the two printer options break even in cost?
+  
