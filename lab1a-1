@@ -1,0 +1,46 @@
+# 1a-1 Virtualisation & Linux Setup
+
+## Setting Up a Linux Environment Using VirtualBox
+
+### 1) VirtualBox Installed
+
+
+---
+
+### 2) Ubuntu ISO Downloaded
+
+
+---
+
+### 3) New VM Created
+
+
+---
+
+### 4) Ubuntu Installation And Running
+
+
+---
+
+### 5) Networking Mode Configured
+
+
+
+---
+
+## Reflection Questions
+
+### 1. What challenges did you encounter during the virtual machine setup?
+This was my first time using virtualisation. When installing VirtualBox, I realised I had to enable virtualisation in the BIOS. Since I rarely access the BIOS, it took me some time to navigate the settings and locate the correct option.
+
+### 2. What did you learn about virtualisation tools and their differences?
+I tried both VMware Workstation Pro and Oracle VirtualBox. Although they are different software platforms, I found that the overall process of creating and configuring a virtual machine is very similar. Once I understood the workflow in one tool, it became much more intuitive to use the other.
+
+### 3. How confident do you feel using Ubuntu after completing this lab?
+I feel confident with the VM installation process and setting up Ubuntu successfully. However, I am still building confidence in using Ubuntu commands and navigating the Linux environment, and I expect this to improve with more practice.
+
+### 4. In what ways can a virtualised Linux environment help in industry scenarios?
+A virtualised Linux environment is useful for testing and learning safely without affecting production systems. It allows users to experiment with configurations, install software, and troubleshoot issues in an isolated environment before applying changes in a real workplace setting.
+
+### 5. What would you do differently if setting up another VM?
+If I were setting up another VM, I would plan the configuration more carefully before starting, such as allocating the right amount of RAM and storage, and choosing the most suitable network mode (NAT or Bridged) depending on the use case. I would also confirm that virtualisation is enabled in the BIOS beforehand to avoid delays during setup.
