@@ -10,4 +10,5 @@
 <img width="1274" height="66" alt="sending remote syslog message" src="https://github.com/user-attachments/assets/edc56c38-839b-4374-b74e-10e6bfed3a94" />
 
 ## Checking the logs from my Azure VM
-<img width="1288" height="546" alt="remote syslog message worked" src="https://github.com/user-attachments/assets/1012d43e-ed12-4b07-ae94-7d734d088bf7" />
+<img width="1274" height="568" alt="remote syslog message test" src="https://github.com/user-attachments/assets/1d92221c-d9ee-4766-b2b2-f269fbee1e50" />
+
